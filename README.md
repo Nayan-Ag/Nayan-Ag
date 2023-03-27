@@ -36,7 +36,7 @@
     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=tokyonight&count_private=true)
 
-![Nayan's github stats](https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
     
 ![Nayan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nayan-Ag)
     

@@ -17,15 +17,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am Senior Dev.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nayan-agarwal-46b1a9234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-agarwal-46b1a9234" height="30" width="40" /></a>
 <a href="https://instagram.com/nayan_.agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan_.agarwal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nayanup93rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayan_up93_rider" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Nayanagarwalup93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nayan_up93_rider" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nayan_2024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nayan_2024" height="30" width="40" /></a>
-<a href="https://github.com/Nayan-Ag/Nayan-Ag/blob/main/www.hackerrank.com/nayan_ag_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nayan_ag_2024" height="30" width="40" /></a>
+<a href="https://github.com/Nayan-Ag/Nayan-Ag/blob/main/www.hackerrank.com/nayan_ag_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/Nayan_Ag_2024" height="30" width="40" /></a>
 <a href="https://leetcode.com/nayan_0403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nayan_0403/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nayanagar14je/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nayanagar14je/" height="30" width="40" /></a>
 </p>

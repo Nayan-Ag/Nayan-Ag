@@ -48,12 +48,12 @@
 <br/>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=onedark&include_all_commits=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align = "center">
-  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)] 
+  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
   
 <!-- Visitors -->

@@ -44,7 +44,6 @@
 <!-- Stats  -->
 ## 📈 **My Stats**
 <br>
-<br>
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -52,7 +51,7 @@
 </p>
 <p align = "center">
   
-  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=DF6D74&line=rgba(228,191,122,255)&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=DF6D74&line=#e4bf7a&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </p>
 <br>

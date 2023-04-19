@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **to survive😵‍💫**
 - 👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)
 - 💬 Ask me about **ReactJS , Java**
-- 📫 How to reach me <a href="nayan.agarwal.2022@gmail.com" color="DF6D74"></a>
+- 📫 How to reach me <a href="nayan.agarwal.2022@gmail.com" color="DF6D74">nayan.agarwal.2022@gmail.com</a>
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)
 ⚡ Fun fact **I think I am Senior Dev.**
 <br>

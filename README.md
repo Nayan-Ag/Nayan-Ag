@@ -48,7 +48,9 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 <p align = "center">
-  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=DF6D74&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </p>
 <br>
 <!-- Visitors -->
@@ -60,5 +62,7 @@
 <details>
 <summary>Detailed Summary</summary>
 <br>   
+  
 ![Metrics](https://metrics.lecoq.io/Nayan-Ag?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+    
 </details>

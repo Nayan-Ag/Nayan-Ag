@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-ag&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-ag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayan-ag" alt="nayan-ag" /></a> </p>
-
 - 🔭 I’m currently working on [Strider](https://github.com/Nayan-Ag/Strider)
 
 - 🌱 I’m currently learning **MERN Stack**

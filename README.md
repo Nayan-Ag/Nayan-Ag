@@ -9,21 +9,21 @@
 <br>
 
 <p align="center">
- <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com? &font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+React+Engineer!;I'm+a+Frontend+Developer!;I'm+a+Android+Developer!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?     font=IBM+Plex+Sans&weight=800&size=25&pause=&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+React+Engineer;I'm+a+Frontend+Developer;I'm+a+Android+Developer" alt="Typing SVG" /></a>
 </p>
 
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on **My Self🙃**
 - 🌱 I’m currently learning **to survive😵‍💫**
-- 👯 I’m *looking to collaborate* on **JavaScript📜 projects.**
-- 🤔 I’m looking for *help* with **wifi connection 🌐**
 - 👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)
 - 💬 Ask me about **ReactJS , Java**
 - 📫 How to reach me **nayan.agarwal.2022@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)
+<br>
+<br>
 
-- ⚡ Fun fact **I think I am Senior Dev.**
+⚡ Fun fact **I think I am Senior Dev.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

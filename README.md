@@ -53,7 +53,13 @@
 </p>
 
 <p align = "center">
-  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag)] 
+  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)] 
+</p>
+  
+<!-- Visitors -->
+## <b> Visitors</b>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Nayan-Ag/count.svg">
 </p>
 
 <!-- Metrics Detialed Summary  -->

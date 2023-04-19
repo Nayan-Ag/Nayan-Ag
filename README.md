@@ -20,7 +20,6 @@
 - 💬 Ask me about **ReactJS , Java**
 - 📫 How to reach me **nayan.agarwal.2022@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)
-<br>
 ⚡ Fun fact **I think I am Senior Dev.**
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +32,6 @@
 <a href="https://leetcode.com/nayan_0403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nayan_0403/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nayanagar14je/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nayanagar14je/" height="30" width="40" /></a>
 </p>
-<br>
 
 <!--   Tech Stack  -->
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +42,7 @@
  <br>
 <!-- Stats  -->
 ## 📈 **My Stats**
-<br/>
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />

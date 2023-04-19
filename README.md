@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nayan Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<b> Hi there, <i>I'm Nayan Agarwal</i></b> 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-ag&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-ag" /> </p>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" length=250px width=250px>
+
+<br>
+<i>A passionate frontend developer from India</i>
+<br>
+<br>
+
+<p align="center">
+ <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://komarev.com/ghpvc/?username=nayan-ag&label=Profile%20views&color=0e75b6&style=flat" /></a>
+</p>
 
 - 🔭 I’m currently working on [Strider](https://github.com/Nayan-Ag/Strider)
 
@@ -39,12 +48,26 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nayan-Ag&theme=onedark&column=3&margin-w=15&margin-h=15">
  
-    
+<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=tokyonight&count_private=true)
 
 
     
-![Nayan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nayan-Ag)
+![Nayan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nayan-Ag) -->
+
+## 📈 **My Stats**
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align = "center">
+  
+  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)]
+
+  
+</p>
 
 <summary>Detailed Summary</summary>
 <br>

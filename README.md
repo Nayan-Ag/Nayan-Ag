@@ -16,10 +16,10 @@
 
 - 🔭 I’m currently working on **My Self🙃**
 - 🌱 I’m currently learning **to survive😵‍💫**
-- 👨‍💻 All of my projects are available at <span style="color: DF6D74">[https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)</span>
+- 👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)
 - 💬 Ask me about **ReactJS , Java**
-- 📫 How to reach me <a href="nayan.agarwal.2022@gmail.com"><span style="color: DF6D74">nayan.agarwal.2022@gmail.com </span></a>
-- 📄 Know about my experiences <span style="color: DF6D74">[https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)</span>
+- 📫 How to reach me nayan.agarwal.2022@gmail.com
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link)
 ⚡ Fun fact **I think I am Senior Dev.**
 <br>
 <h3 align="left">Connect with me:</h3>

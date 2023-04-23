@@ -9,7 +9,7 @@
 <br>
 
 <p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=800&size=25&pause=&color=DF6D74&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+React+Engineer;I'm+a+Frontend+Developer;I'm+a+Android+Developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966?font=IBM+Plex+Sans&weight=800&size=25&pause=&color=DF6D74&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+React+Engineer;I'm+a+Frontend+Developer;I'm+a+Android+Developer" /></a>
  </p>
 
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)

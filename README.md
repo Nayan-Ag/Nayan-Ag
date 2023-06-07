@@ -44,7 +44,7 @@
 <!-- Stats  -->
 ## 📈 **My Stats**
 <br>
-![](https://leetcard.jacoblin.cool/nayan0403?ext=contest)
+![](https://leetcard.jacoblin.cool/nayan0403?ext=heatmap)
 
 
 <p align="left">

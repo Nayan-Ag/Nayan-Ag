@@ -15,7 +15,7 @@
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786+%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on **My Self🙃**
-- 🌱 I’m currently learning **to survive😵‍💫**
+- 🌱 I’m currently learning **to survive😵‍💫*
 - 👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)
 - 💬 Ask me about **ReactJS , Java**
 - 📫 How to reach me nayan.agarwal.2022@gmail.com

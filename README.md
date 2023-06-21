@@ -56,7 +56,7 @@
 
 <p align = "center">
   
-  [![Nayan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nayan-Ag&bg_color=000000&color=DF6D74&line=E4BF7A&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Nayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-Ag&bg_color=000000&color=DF6D74&line=E4BF7A&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </p>
 <br>

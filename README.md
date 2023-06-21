@@ -44,7 +44,10 @@
 <!-- Stats  -->
 ## 📈 **My Stats**
 <br>
-![](https://leetcard.jacoblin.cool/nayan0403?ext=heatmap)
+![LeetCode Stats][(https://leetcard.jacoblin.cool/nayan0403?theme=dark&font=Kreon&ext=activity)](https://leetcode.com/JacobLinCool)
+<br>
+<br>
+<br>
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />

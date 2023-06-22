@@ -44,15 +44,22 @@
 <!-- Stats  -->
 ## 📈 **My Stats**
 <br>
-![LeetCode Stats][(https://leetcard.jacoblin.cool/nayan0403?theme=dark&font=Kreon&ext=activity)](https://leetcode.com/JacobLinCool)
-<br>
+
+<p align="center">
+  <img width="45.5%" src="https://leetcard.jacoblin.cool/nayan0403?theme=dark&font=Kreon&ext=activity" />
+
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nayan-Ag&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</p>
 <br>
 <br>
 
-<p align="left">
+<p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nayan-Ag&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayan-Ag&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+  
 </p>
+<br>
+<br>
 
 <p align = "center">
   

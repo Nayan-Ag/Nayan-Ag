@@ -22,14 +22,14 @@
 <!-- Right GIF -->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-- 🔭 I’m currently working on **My Self🙃**
-- 🌱 I’m currently learning **to survive😵‍💫*
-- 👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)
-- 💬 Ask me about **ReactJS , Java**
-- 📫 How to reach me nayan.agarwal.2022@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1n4MaLL7beYijSmjS5sMCXHyKKUtykk4N/view?usp=sharing)
+🔭 I’m currently working on **My Self🙃**     <br>
+🌱 I’m currently learning **to survive😵‍💫*     <br>
+👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)    <br>
+💬 Ask me about **ReactJS , Java**     <br>
+📫 How to reach me nayan.agarwal.2022@gmail.com   <br>
+📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1n4MaLL7beYijSmjS5sMCXHyKKUtykk4N/view?usp=sharing)   <br>
 ⚡ Fun fact **I think I am Senior Dev.**
-<br><br>
+<br>
 
 <!--  Social Platforms  -->
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -50,7 +50,6 @@
 </a>
 
 </p>
-<br>
 
 <!-- Programming Skills -->
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
@@ -77,11 +76,9 @@
 &emsp;
 
 </p>
-<br>
 
 <!--   Tech Stack  -->
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming language 
-&emsp;
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming language 
 <p align = "center">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -120,10 +117,8 @@
 &emsp;
 
 </p>
-<br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
-&emsp;
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align = "center">
   
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 

@@ -24,10 +24,10 @@
 <br>
 🔭 I’m currently working on **My Self🙃**     <br>
 🌱 I’m currently learning **to survive😵‍💫*     <br>
-👨‍💻 All of my projects are available at [https://nayan-ag-portfolio.netlify.app/](https://nayan-ag-portfolio.netlify.app/)    <br>
+👨‍💻 All of my projects are available at [https://nayan-ag.vercel.app](https://nayan-ag.vercel.app)    <br>
 💬 Ask me about **ReactJS , Java**     <br>
 📫 How to reach me nayan.agarwal.2022@gmail.com   <br>
-📄 Know about my experiences [https://drive.google.com/file/d/1MUE3v1kNmAucIo9yBD7otCxOD-Ao7RKE/view?usp=share_link](https://drive.google.com/file/d/1n4MaLL7beYijSmjS5sMCXHyKKUtykk4N/view?usp=sharing)   <br>
+📄 Know about my experiences [https://drive.google.com/file/d/14JcLm5MSNqQy4A6Rxn4ZtezbgXphD03I/view?usp=drive_link](https://drive.google.com/file/d/14JcLm5MSNqQy4A6Rxn4ZtezbgXphD03I/view?usp=drive_link)   <br>
 ⚡ Fun fact **I think I am Senior Dev.**
 <br>
 

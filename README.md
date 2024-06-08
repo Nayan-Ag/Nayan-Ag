@@ -36,8 +36,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
   
-<a href="https://linkedin.com/in/nayanag04" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-agarwal-46b1a9234" height="35" width="45"/>
+<a href="https://linkedin.com/in/nayan04" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan04" height="35" width="45"/>
 </a>
 &emsp;
 

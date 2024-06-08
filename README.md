@@ -28,7 +28,7 @@
 👨‍💻 All of my projects are available at [https://nayan-ag.vercel.app](https://nayan-ag.vercel.app)    <br>
 💬 Ask me about **ReactJS , Java**     <br>
 📫 How to reach me nayan.agarwal.2022@gmail.com   <br>
-📄 Know about my experiences [https://drive.google.com/file/d/14JcLm5MSNqQy4A6Rxn4ZtezbgXphD03I/view?usp=drive_link](https://drive.google.com/file/d/14JcLm5MSNqQy4A6Rxn4ZtezbgXphD03I/view?usp=drive_link)   <br>
+📄 Know about my experiences [https://drive.google.com/file/d/1R2pw5ilbraBSEj6SNjkKLyXIYmkORis1/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1R2pw5ilbraBSEj6SNjkKLyXIYmkORis1/view?usp=sharing&usp=embed_facebook)   <br>
 ⚡ Fun fact **I think I am Senior Dev.**
 <br>
 

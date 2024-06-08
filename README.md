@@ -11,7 +11,7 @@
 <br>
 <br>
 <p align="left">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=800&size=25&pause=&color=DF6D74&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+React+Engineer;I'm+a+Frontend+Developer;I'm+a+Android+Developer;I'm+a+DSA+Enthusiast;I'm+a+Problem+Solver;" /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=800&size=25&pause=&color=DF6D74&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+Software+Engineer;I'm+a+Backend+Developer;I'm+a+Java+Developer;I'm+a+DSA+Enthusiast;I'm+a+Problem+Solver;" /></a>
  </p>
 
  <!--  Lines Of Code  -->
@@ -36,7 +36,7 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
   
-<a href="https://linkedin.com/in/nayan-agarwal-46b1a9234" target="blank">
+<a href="https://linkedin.com/in/nayanag04" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-agarwal-46b1a9234" height="35" width="45"/>
 </a>
 &emsp;
